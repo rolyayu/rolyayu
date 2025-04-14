@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rolyayu&theme=dark&background=000000)](https://git.io/streak-stats)
-
+  [![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=rolyayu)](https://github.com/evirunurm/github-stats)
 
 <!--
 **rolyayu/rolyayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
